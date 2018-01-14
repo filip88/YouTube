@@ -1,0 +1,225 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "How to install",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "1",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/iPhone_X_overview.mp4"
+    },
+    {
+      "id": 2,
+      "title": "How to create",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "1",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/Mirroring_iPhone.mp4"
+    },
+    {
+      "id": 3,
+      "title": "How to code part 1",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "1",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/Slow_Typer.mp4"
+    },
+    {
+      "id": 4,
+      "title": "How to code part 2",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "1",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/Spacious.mp4"
+    },
+    {
+      "id": 5,
+      "title": "JavaScript tutorial",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "1",
+      "uploaded": "2018-05-12 00:00:00",
+      "image": "https://assets.pcmag.com/media/images/396774-the-10-best-ultraportables.jpg?width=410&height=230",
+      "url": "http://www.coverr.co/s3/mp4/Love-Coding.mp4"
+    },
+    {
+      "id": 6,
+      "title": "Java tutorial",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "1",
+      "uploaded": "2018-05-12 00:00:00",
+      "image": "https://www.locatemylaptop.com/wp-content/uploads/2017/11/vpavic_161031_1256_0075.0.jpg",
+      "url": "http://www.coverr.co/s3/mp4/Aloha-Mundo.mp4"
+    },
+    {
+      "id": 7,
+      "title": "Qa automation",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "1",
+      "uploaded": "2018-05-12 00:00:00",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bVIfrlSrvxOh6_uMXwvwvlMUsQ2J4poenFWc2E6mJS-GB4Pg",
+      "url": "http://www.coverr.co/s3/mp4/Working-it.mp4"
+    },
+    {
+      "id": 8,
+      "title": "Html tutorial",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "1",
+      "uploaded": "2018-05-12 00:00:00",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bVIfrlSrvxOh6_uMXwvwvlMUsQ2J4poenFWc2E6mJS-GB4Pg",
+      "url": "http://www.coverr.co/s3/mp4/Spacious.mp4"
+    },
+    {
+      "id": 9,
+      "title": "SCSS and LESS",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "channel_id": "1",
+      "uploaded": "2018-05-12 00:00:00",
+      "image": "https://www.computershopper.com/var/ezwebin_site/storage/images/slideshow/first-looks-2017-hp-envy-13-and-envy-17-laptops-kaby-lake-refreshes-with-new-twists/introducing-the-hp-envy-laptop-13-2017/1332554-1-eng-US/introducing-the-hp-envy-laptop-13-2017_slideshow_main.jpg",
+      "url": "http://www.coverr.co/s3/mp4/Busy-People.mp4"
+    },
+    {
+      "id": 10,
+      "title": "Python tutorial",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "1",
+      "uploaded": "2018-05-12 00:00:00",
+      "image": "https://www.computershopper.com/var/ezwebin_site/storage/images/slideshow/first-looks-2017-hp-envy-13-and-envy-17-laptops-kaby-lake-refreshes-with-new-twists/introducing-the-hp-envy-laptop-13-2017/1332554-1-eng-US/introducing-the-hp-envy-laptop-13-2017_slideshow_main.jpg",
+      "url": "http://www.coverr.co/s3/mp4/We-Work-We-Wait.mp4"
+    },
+    {
+      "id": 11,
+      "title": "C++ tutorial",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "1",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/Morning-Routine.mp4"
+    },
+    {
+      "id": 12,
+      "title": "PHP tutorial",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "1",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/Agile.mp4"
+    },
+    {
+      "id": 13,
+      "title": "C# tutorial",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "1",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/White-Board.mp4"
+    },
+    {
+      "id": 14,
+      "title": "Ruby totorial",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "1",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/Mock-up.mp4"
+    },
+    {
+      "id": 15,
+      "title": "Perl Tutorial",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "1",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/Office_Perks.mp4"
+    },
+    {
+      "id": 16,
+      "title": "Just some talk",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "2",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/Disco%20December.mp4"
+    },
+    {
+      "id": 17,
+      "title": "Drinking",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "2",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/Trio.mp4"
+    },
+    {
+      "id": 18,
+      "title": "Party all the time",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "2",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/Streetclown.mp4"
+    },
+    {
+      "id": 19,
+      "title": "Party and dancing",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "2",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/Cinema_Paradiso.mp4"
+    },
+    {
+      "id": 19,
+      "title": "Party and dancing",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "2",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/Draw-Something.mp4"
+    },
+    {
+      "id": 20,
+      "title": "Procedures",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "3",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/Industrial_Brooklyn.mp4"
+    },
+    {
+      "id": 21,
+      "title": "Follow the process",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "3",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/Mega_Yacht.mp4"
+    },
+    {
+      "id": 22,
+      "title": "Some procedures",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "3",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/Taxi_Jet.mp4"
+    },
+    {
+      "id": 23,
+      "title": "Follow the scrum",
+      "description": "How to code pure FrontEnd app. Stack is JavaScript, HTML, SCSS, React, Redux, and other tools. This is just some text that is shown in description part of the video",
+      "duration": "02:12:04",
+      "channel_id": "3",
+      "uploaded": "2018-05-12 00:00:00",
+      "url": "http://www.coverr.co/s3/mp4/Taxi_Jet.mp4"
+    }
+  ]
+}

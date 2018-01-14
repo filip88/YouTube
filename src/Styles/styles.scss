@@ -1,0 +1,61 @@
+@import './variables.scss';
+@import './libraries.scss';
+
+
+// BUTTONS
+
+.app-link {
+  cursor: pointer;
+  font-weight: bold;
+  color: $secondary-color;
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+
+// HELPERS
+
+.padding-5 {
+  padding: 5px;
+}
+
+.padding-10 {
+  padding: 10px;
+}
+
+.padding-15 {
+  padding: 15px;
+}
+
+.padding-20 {
+  padding: 20px;
+}
+
+.center {
+  text-align: center;
+}
+
+// INPUT ERROR
+
+.input-error {
+  border: 2px solid $error-color;
+}
+
+.error-label {
+  float: left;
+  color: $error-color;
+}
+
+// BASIC STYLE
+
+.page {
+  background-color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+// BASIC STYLE
+
+body {
+  background-color: #e9eaec;
+}

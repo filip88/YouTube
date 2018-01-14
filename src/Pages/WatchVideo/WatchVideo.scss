@@ -1,0 +1,11 @@
+@import "./src/Styles/styles.scss";
+
+.watch-video-page {
+  @extend .page;
+
+  .video-title {
+    font-weight: 600;
+    font-size: 20px;
+    color: $primary-color;
+  }
+}

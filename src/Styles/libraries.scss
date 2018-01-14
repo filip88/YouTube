@@ -1,0 +1,45 @@
+
+//CUSTOMIZATION OF LIBRARIE STYLES
+
+
+
+// CUSTOMIZE PAGINATION LIBRARIE
+
+.pagination {
+  cursor: pointer;
+  padding: 20px 0px;
+  a {
+    color: $primary-color;
+    padding: 5px 10px;
+    border-top: 1px solid $neutral-color;
+    border-right: 1px solid $neutral-color;
+    border-bottom: 1px solid $neutral-color;
+  }
+
+  .previous {
+    margin-right: 5px;
+    a{
+      border-left: 1px solid $neutral-color;
+    }
+  }
+
+  .next {
+    margin-left: 5px;
+    a {
+      border-left: 1px solid $neutral-color;
+    }
+  }
+
+  li:nth-child(2) {
+    a{
+      border-left: 1px solid $neutral-color;
+    }
+  }
+
+  .active {
+    a {
+      background-color: $primary-color;
+      color: white;
+    }
+  }
+}

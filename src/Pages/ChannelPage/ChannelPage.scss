@@ -1,0 +1,5 @@
+@import "./src/Styles/styles.scss";
+
+.channel-page {
+  @extend .page;
+}
